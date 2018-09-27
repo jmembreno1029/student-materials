@@ -1,11 +1,12 @@
-# Title
+# Inspiration Zone
 
 ## Executive Summary
-
-*Your executive summary should be pretty brief, under 3 paragraphs and should provide a concise summary of the purpose and contents of the rest of the document.  Explain to the reader what they will get from this document.*
+  This document serves to provide Exeter with the business objectives, background, scope and requirements of the project to produce the web application, Inspiration Zone. In addition, this document will contain the delivery schedule, assumuptions, limitations and risks of the project.
+  The document will be a core outline of the project and it's components.
 
 ## Business Objectives
-
+  The value of creating Inspiration Zone is to provide a resource for students to collaborate on project ideas.  This is intended to provide a space for sharing files, screen shots and chat functions to coordinate.
+  
 *Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
 
 ## Background

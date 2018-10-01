@@ -6,23 +6,21 @@
 
 ## Business Objectives
   The value of creating Inspiration Zone is to provide a resource for students to collaborate on project ideas.  This is intended to provide a space for sharing files, screen shots and chat functions to coordinate.
-  
-*Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
 
 ## Background
 
-*Provide any relevant background information regarding why this project is being initiated*
+With the success of Exeter, many students have inquired on how to find a way to work together with other students and inspire other students through hands-on teamwork. 
 
 ## Scope
 
-*The Scope section should outline what is and is not included as part of this project.  Oftentimes we make assumptions of features or functionality that is not necessarily required.  This is especially useful in a phased approach or when working on an existing system.*
+Inspiration Zone is not a social media platform.  Inspiration Zone is a productivity platform that will allow students to collaborage on projects. There will be no integration with external social media platforms.  However, it will allow for exporting to productivity applications such as dropbox or google drive.
 
 ## Functional requirements
 
-*This is where most of the detail should reside.  describe all of the required capabilities of the system in detail.  It is helpful to articulate features in terms of user capabilities.  Keep in mind that the features will be designed and developed off of these descriptions, so if you leave anything up to interpretation, you run the risk of the results not meeting your expectations.  You can also assume capabilities that are not mentioned here will not be included in the project, no matter how common or obvious they are.  You may want to break our subsections for each major feature to make the document more organized.*
-
+Inspiration zone is going to include a functional chat feature that will allow for the sharing of code with support of many programming languages.  It will allow for the creation of groups where users can be involved in multiple groups if desired.  Within each group, there will be the a group call functionality, the allowance of a meeting links for screen sharing as well as integration with Trello for project management.  In addition, each user will have a their own profile where they can list their skill set, contact information,  technology preferences, times available to work and personal settings for application theming, backgrounds and notifications.  There will be an option to set one's status to indicate if they are available or not.  The main section of the app- outside of groups, will be in a message board format where ideas can be posted.  Other users will be able to comment on the post with abilities to edit and tag other users.  This will be useful if a user finds an interesting idea and wants to involve other users they know or groups to work together.  The use of GIFs and other images types will be allowed in the posts to allow visual representation of project ideas.  
 
 ## Personnel requirements
+
 
 *In this section you may want to describe the composition of the team, do you need dedicated development?  how many people?  How about design or QA?  Think about what personnel is required to make this project a success, and place your recommendations here.*
 

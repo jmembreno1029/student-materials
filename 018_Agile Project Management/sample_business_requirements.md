@@ -21,25 +21,22 @@ Inspiration zone is going to include a functional chat feature that will allow f
 
 ## Personnel requirements
 
-
-*In this section you may want to describe the composition of the team, do you need dedicated development?  how many people?  How about design or QA?  Think about what personnel is required to make this project a success, and place your recommendations here.*
+To complete the project, we will need a team of at least 8 developers.  2 of them need to be senior level and the others can be junior to mid-level. In addition, we need 2 UX/UI designers and 2 QA developers to ensure that quality of the work. The team selected for this project must dedicate 50 percent of their working time.  
 
 ## Delivery schedule
 
-*It's often helpful to break a project out into phases or milestones.  In this section list out any logical checkpoints where you would like to see the project demonstrated to ensure that expectations are being met.  Describe the phase, and the functional requirements required for completion.*
+Phase 1 will be the design phase where we will focus on in-depth documentation of architectural specifications and user-interface designs as well as hardware specifications where applicable. The goal of this phase is to produce design documentation which can be turned over for implementation by the development team. 
 
-## Other requirements
+Phase 2 will be the implemenation phase where all of the actual development will takes place. This phase belongs to the developers as they will take the project requirements and specifications, and code the application.
 
-*This section serves as a catch-all for any details that may not fit in other areas.  things like device or browser support, considerations for accessibility or inspiration for style.  Offer additional context here to ensure the project meets your vision*
+Phase 3 will be the verification phase and is dedicated to a series of quality assurance tests to validate that the application is working as designed and that all requirements have been met. This phase is often conducted by the QA team outlined in the "Personal requirements" section.
 
-## Assumptions
-
-*Oftentimes we are reliant on outside sources such as frameworks to be used, or services that our system will depend on.  In this section you should provide detail on any assumptions that you have made, such as the system being reliant on the availability of the Google Maps API.*
+Phase 5 will be the Maintenance phase where the students will be using the developed application. Changes will be made to the system during this phase if any problems that are found due to improper requirements determination or other mistakes in the design process, or due to changes in the users' requirements.
 
 ## Limitations
 
-*Identify any limitations in terms of time, personnel, technical details, or other things that limit the scope, time, and cost of the project being discussed.*
+Because team for this project will only be required to commit to 50 percent of their working time, they may only be available during part of the day to work on the project as the rest of their time will be use to their other responsibilities. 
 
 ## Risks
 
-*Every project has inherent risks that may cause delay or even failure of a project.  You must identify this risks to show you know what they are, and also identify ways in which you would mitigate those risks.*
+In the event that we lose any team members, it may cause a delay due to the small team and time commitment.  To mitigate this risk, we should have 2 back-up developers and 1 back-up QA developer.
